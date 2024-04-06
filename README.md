@@ -1,5 +1,6 @@
 # Market_Segmentation
 This repository contains the code and documentation for a market segmentation project focused on analyzing customer preferences and behaviors related to McDonald's restaurants. The project aims to uncover meaningful segments within the McDonald's customer base and provide insights that can inform marketing strategies and product offerings
+
 **Data:**
 The dataset used in this project contains responses from 1453 customers and includes various attributes such as their perception of McDonald's food (e.g., tasty, convenient, spicy), demographic information (e.g., age, gender), and their overall sentiment towards McDonald's. Each attribute has multiple categories, providing insights into different aspects of customer preferences.
 
@@ -16,7 +17,9 @@ The primary objective of this project is to identify meaningful segments within 
   
 **Tools and Technologies:**
 Python: Pandas, NumPy, scikit-learn
+
 Data Visualization: Matplotlib, Seaborn
+
 Statistical Analysis: SciPy
 
 **Conclusion:**
